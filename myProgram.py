@@ -1,6 +1,6 @@
 import os
 
-# This is an example puython programme which shows how to use the different stand-alone versions of OWL reasoners and forgetting programme
+# This is an example python programme which shows how to use the different stand-alone versions of OWL reasoners and forgetting programme
 
 # Choose the ontology (in the OWL format) for which you want to explain the entailed subsumption relations.
 inputOntology = "datasets/pizza_super_simple.owl"
