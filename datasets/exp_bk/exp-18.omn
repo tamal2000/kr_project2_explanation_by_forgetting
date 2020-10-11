@@ -1,0 +1,3 @@
+Ontology(<http://www.example.com/explanation18>
+SubClassOf(<http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseyVegetableTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping>)
+)

@@ -1,0 +1,6 @@
+Ontology(<http://www.example.com/explanation13>
+SubClassOf(<http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#Food>)
+SubClassOf(<http://www.co-ode.org/ontologies/pizza/pizza.owl#PineKernels> <http://www.co-ode.org/ontologies/pizza/pizza.owl#NutTopping>)
+SubClassOf(<http://www.co-ode.org/ontologies/pizza/pizza.owl#NutTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#PizzaTopping>)
+SubClassOf(<http://www.co-ode.org/ontologies/pizza/pizza.owl#Food> <http://www.co-ode.org/ontologies/pizza/pizza.owl#DomainConcept>)
+)

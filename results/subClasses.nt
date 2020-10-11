@@ -1,0 +1,1 @@
+ObjectSomeValuesFrom(<http://persons.iis.nsk.su/files/persons/pages/einsteins_riddle.owl#lives_in> owl:Thing) <http://www.w3.org/2000/01/rdf-schema#subClassOf>  <http://persons.iis.nsk.su/files/persons/pages/einsteins_riddle.owl#Man> .

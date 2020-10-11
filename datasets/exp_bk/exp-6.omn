@@ -1,0 +1,5 @@
+Ontology(<http://www.example.com/explanation6>
+DisjointClasses(<http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#FishTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#FruitTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#HerbSpiceTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#MeatTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#NutTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#SauceTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping>)
+SubClassOf(<http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseyVegetableTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#VegetableTopping>)
+SubClassOf(<http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseyVegetableTopping> <http://www.co-ode.org/ontologies/pizza/pizza.owl#CheeseTopping>)
+)
